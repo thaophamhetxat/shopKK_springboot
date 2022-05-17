@@ -22,4 +22,5 @@ public class AppRole {
 	private Long roleId;
 	@Column
 	private String name;
+	
 }
