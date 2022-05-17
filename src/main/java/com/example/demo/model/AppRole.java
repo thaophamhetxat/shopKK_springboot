@@ -23,4 +23,5 @@ public class AppRole {
 	@Column
 	private String name;
 	
+	
 }
